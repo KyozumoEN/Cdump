@@ -7,7 +7,7 @@
 MAIN
 
  */
-int main(void)                      //declares the main function. void means it wont have to return anything
+int main(void)                      //declares the main function, its the thing that will run once the program is opened. void means it wont have to return anything
 {
     //START
     printf("Project: ");
