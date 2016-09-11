@@ -34,7 +34,7 @@ int main(void)                      //declares the main function, its the thing 
         //USER INPUT
         printf("Operation: ");
         scanf("%i", &a);            // %i looks for an integer, &a writes that integer in a
-        scanf("%c", &opr);          // %c looks for a character, &opr writes that integer in opr
+        scanf("%c", &opr);          // %c looks for a character, &opr writes that character in opr
         scanf("%i", &b);            // %i looks for an integer, &b writes that integer in b
         //AWNSERING
         printf("...............\n\n");
